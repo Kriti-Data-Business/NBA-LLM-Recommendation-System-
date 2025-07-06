@@ -26,6 +26,7 @@ An AI-powered recommendation engine that optimizes customer engagement through i
 #### Baseline Models
 - **Simple Recommendation Rules**: Business logic-based recommendations
 - **Random Assignment Control**: Statistical baseline for comparison
+<img width="631" alt="Screenshot 2025-07-06 at 9 14 19 PM" src="https://github.com/user-attachments/assets/c6e85a7c-f96d-448e-9b4b-91e0c628f11b" />
 
 ## Key Features
 
