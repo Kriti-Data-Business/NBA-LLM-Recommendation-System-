@@ -88,8 +88,6 @@ https://github.com/Kriti-Data-Business/NBA-LLM-Recommendation-System-/blob/main/
 ## Related Research & References
 ###  Sequential Decision Theory
 
-- [Sequential Decision Making in Recommendation Systems](https://arxiv.org/abs/1801.00686)
-- [Dynamic Treatment Regimes: Statistical Methods for Precision Medicine](https://link.springer.com/book/10.1007/978-3-319-28108-7)
 
 ###  Multi-Armed Bandit Optimization
 
