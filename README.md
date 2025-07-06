@@ -86,27 +86,31 @@ An AI-powered recommendation engine that optimizes customer engagement through i
 **Production Ready** - Currently deployed and serving recommendations with proven 18.3% sales improvement
 https://github.com/Kriti-Data-Business/NBA-LLM-Recommendation-System-/blob/main/Workflow
 ## Related Research & References
+###  Sequential Decision Theory
 
-### Sequential Decision Theory
 - [Sequential Decision Making in Recommendation Systems](https://arxiv.org/abs/1801.00686)
-- [Dynamic Treatment Regimes: Statistical Methods for Precision Medicine](https://www.springer.com/gp/book/9783319281087)
+- [Dynamic Treatment Regimes: Statistical Methods for Precision Medicine](https://link.springer.com/book/10.1007/978-3-319-28108-7)
 
-### Multi-Armed Bandit Optimization
+###  Multi-Armed Bandit Optimization
+
 - [A Tutorial on Thompson Sampling](https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf)
 - [Contextual Bandits for Personalized Recommendation](https://arxiv.org/abs/1909.06892)
 - [Multi-Armed Bandit Algorithms and Empirical Evaluation](https://link.springer.com/chapter/10.1007/978-3-642-17711-8_1)
 
-### Customer Journey Modeling
+###  Customer Journey Modeling
+
 - [Customer Journey Analytics: From Data to Insights](https://www.sciencedirect.com/science/article/pii/S0167811618300181)
 - [Mapping the Customer Journey: Lessons Learned from Graph-Based Online Attribution Modeling](https://dl.acm.org/doi/10.1145/2872427.2883050)
 - [A Dynamic Model of Customer Journey Mapping](https://journals.sagepub.com/doi/10.1177/0022242919841877)
 
-### Reinforcement Learning in Retail Applications
+###  Reinforcement Learning in Retail Applications
+
 - [Deep Reinforcement Learning for Recommendation Systems](https://arxiv.org/abs/1801.00209)
 - [Reinforcement Learning for Real-Time Pricing and Revenue Optimization](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3241)
 - [RL4Real: Reinforcement Learning for Real-world Recommendation Systems](https://arxiv.org/abs/1909.04847)
 
-### Next Best Action & Recommendation Systems
+###  Next Best Action & Recommendation Systems
+
 - [Next Best Action Recommendation with Multi-Armed Bandit](https://ieeexplore.ieee.org/document/8970700)
 - [Real-time Personalization using Embeddings for Search Ranking](https://dl.acm.org/doi/10.1145/3219819.3219885)
 - [Deep Learning for Recommender Systems: A Netflix Case Study](https://dl.acm.org/doi/10.1145/3298689.3346997)
